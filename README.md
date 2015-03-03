@@ -1,8 +1,10 @@
-Wirteln
+![](http://i.imgur.com/JDZP2vC.gif)
 =======
+[![Build Status](https://travis-ci.org/GabrielJMJ/Writeln.svg)](https://travis-ci.org/GabrielJMJ/Writeln)  [![License](https://img.shields.io/packagist/l/gabrieljmj/should-php.svg)](https://packagist.org/packages/gabrieljmj/writeln) [![Latest Unstable Version](https://img.shields.io/badge/unstable-dev--master-orange.svg)](https://packagist.org/packages/gabrieljmj/writeln) [![Total Downloads](https://img.shields.io/packagist/dt/gabrieljmj/should-php.svg)](https://packagist.org/packages/gabrieljmj/writeln) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/gabrieljmj/writeln.svg)](https://scrutinizer-ci.com/g/GabrielJMJ/Writeln/?branch=dev)
 
+Fast and simple Symfony Console command creation
 
-Usage example
+## Usage example
 ```php
 #!/usr/bin/env php
 <?php
